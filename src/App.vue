@@ -6,7 +6,7 @@
         <h1>Hyrule Jobs</h1>
       </div>
       <div class="order">
-        <button @click="handleClick('title')">order by titile</button>
+        <button @click="handleClick('title')">order by title</button>
         <button @click="handleClick('salary')">order by salary</button>
         <button @click="handleClick('location')">order by location</button>
       </div>
